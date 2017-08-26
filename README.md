@@ -16,7 +16,7 @@ The project was completed using Unity 5.5.1f1 and Google VR 1.0. The submitted i
 ## Changes
 
 ### 8/26/2017
-Since since version 1 fomr 8/25/2017, I implemented the changes recommended by the Udacity reviewer.
+Since  version 1 from 8/25/2017, I implemented the changes recommended by the Udacity reviewer.
 
 1) The key was visible from the starting point since I had placed in on top of the fountain. I replaced the fountain with a shorter pedestal to lower the altitude of the floating key so it is no longer viewable from other sites within the maze. I moved the fountain to near the starting point and placed a large rotating coin on its top.
 
